@@ -199,22 +199,23 @@
                 <div class="row g-5">
                     <div class="col-lg-7">
                         <div class="section-title mb-4">
-                            <h5 class="position-relative d-inline-block text-primary text-uppercase">About Us</h5>
-                            <h1 class="display-5 mb-0">The World's Best Dental Clinic That You Can Trust</h1>
+                            <h5 class="position-relative d-inline-block text-primary text-uppercase">Mengenai Kami</h5>
+                            <h1 class="display-5 mb-0">Pejabat Pendidikan Daerah Bintulu</h1>
                         </div>
-                        <h4 class="text-body fst-italic mb-4">Diam dolor diam ipsum sit. Clita erat ipsum et lorem stet no
-                            lorem sit clita duo justo magna dolore</h4>
+                        <h4 class="text-body fst-italic mb-4">Mewakili Jabatan Pendidikan Negeri dalam segala urusan pentadbiran
+                            jabatan di peringkat Daerah
+                        </h4>
                         <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
                             amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
                             clita duo justo et tempor eirmod magna dolore erat amet</p>
                         <div class="row g-3">
                             <div class="col-sm-6 wow zoomIn" data-wow-delay="0.3s">
                                 <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Award Winning</h5>
-                                <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Professional Staff
+                                <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Kakitangan Profesional
                                 </h5>
                             </div>
                             <div class="col-sm-6 wow zoomIn" data-wow-delay="0.6s">
-                                <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>24/7 Opened</h5>
+                                <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Waktu Operasi : 8.00 pagi - 5.00 petang</h5>
                                 <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Fair Prices</h5>
                             </div>
                         </div>
